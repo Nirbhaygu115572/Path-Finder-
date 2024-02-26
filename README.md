@@ -1,4 +1,4 @@
-# pathfindr v1.3
+# pathfindr v2.0
 
 A visualizer of path finder algorithm. Generate a grid, set blockades, choose start and end points and the algo will find you the shortest route to your Destinatin....
 
