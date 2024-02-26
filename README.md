@@ -22,3 +22,5 @@ If any bugs found, create an issue or report at <nirbhaaygu115572@gmail.com>
     - Modify _BFS algorithm_ to run through all open nodes to find the longest route.
   - Put a player avatar on start point and make it able to go through open nodes.
 - Develop **A\* algorithm**
+# visit
+### https://nirbhaygu115572.github.io/Path-Finder-/
